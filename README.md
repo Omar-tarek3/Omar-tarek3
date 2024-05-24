@@ -29,7 +29,7 @@ I'm a DevOps Engineer with a passion for open source. I love working on web deve
 
 ## Contact
 - **Email**: omartarekabdelall@gmail.com
-- **LinkedIn**: [linkedin.com/in/johndoe]()
+- **LinkedIn**: [linkedin.com/in/omar-tarek](www.linkedin.com/in/omar-tarek-274700214)
 
-![Profile views](https://komarev.com/ghpvc/?username=johndoe&color=blue)
+
 
