@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+I'm a DevOps Engineer with a passion for open source. I love working on web development, data science, and automation.
+
+## Projects
+- [Project 1](https://github.com/johndoe/project1): Description of project 1.
+- [Project 2](https://github.com/johndoe/project2): Description of project 2.
+
+## Skills
+- **Languages**: Python, JavaScript, C++
+- **Frameworks**: React, Django, Flask
+- **Tools**: Git, Docker, Jenkins
+
+## Contact
+- **Email**: omartarekabdelall@gmail.com
+- **LinkedIn**: [linkedin.com/in/johndoe]()
+
+![Profile views](https://komarev.com/ghpvc/?username=johndoe&color=blue)
+
