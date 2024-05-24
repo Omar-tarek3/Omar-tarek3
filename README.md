@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a DevOps Engineer with a passion for open source. I love working on web development, data science, and automation.
 
 ## Projects
-- [Project 1](https://github.com/johndoe/project1): Description of project 1.
+- [TodoList Microservices Application](https://github.com/Omar-tarek3/TodoList-App):End-to-End Devops project.
 - [Project 2](https://github.com/johndoe/project2): Description of project 2.
 
 ## Skills
