@@ -1,35 +1,9 @@
 ## Hi there 👋
+I'm Omar passionate DevOps Engineer with a strong background in automation, cloud infrastructure, and continuous integration/continuous deployment (CI/CD) pipelines.
 
-<!--
-**Omar-tarek3/Omar-tarek3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## About Me
-I'm a DevOps Engineer with a passion for open source. I love working on web development, data science, and automation.
-
-## Projects
-- [TodoList Microservices Application](https://github.com/Omar-tarek3/TodoList-App):End-to-End Devops project.
-- [Project 2](https://github.com/johndoe/project2): Description of project 2.
-
-## Skills
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: React, Django, Flask
-- **Tools**: Git, Docker, Jenkins
-
-## Contact
-- **Email**: omartarekabdelall@gmail.com
-- **LinkedIn**: [linkedin.com/in/omar-tarek](https://www.linkedin.com/in/omar-tarek-274700214/)
-
-
+- 🔭 I’m currently working on developing a fully automated CI/CD pipeline using Jenkins, Docker, and Kubernetes to streamline the deployment process.
+- 👯 I’m looking to collaborate on DevOps CI/CD projects.
+- 📫 How to reach me: 
+    - **Email**: omartarekabdelall@gmail.com
+    - **LinkedIn**: [linkedin.com/in/omar-tarek](https://www.linkedin.com/in/omar-tarek-274700214/)
 
